@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on cryptochange app...
 - 🌱 I’m currently learning English...
 - 👯 I’m looking to collaborate on cbot...
+
+LANGUAGES AND TOOLS:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <!--
 **ADAMAYAMEOGO/ADAMAYAMEOGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
