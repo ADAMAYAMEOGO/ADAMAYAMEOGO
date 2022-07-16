@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on cbot...
 
 LANGUAGES AND TOOLS:
+<br><br>
 <img style=" width:25px; height:25px " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img style=" width:25px; height:25px "  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
