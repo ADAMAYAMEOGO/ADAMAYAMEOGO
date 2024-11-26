@@ -8,9 +8,12 @@
 LANGUAGES AND TOOLS:
 <br><br>
   <img alt="PYTHON" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="FASTAPI" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img alt="VUEJS" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
   <img alt="VSCODE" style=" width:50px; height:50px "  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="HTML5" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="DOCKER" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
   <img alt="BASH" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img alt="LINUX" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="GITHUB" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
