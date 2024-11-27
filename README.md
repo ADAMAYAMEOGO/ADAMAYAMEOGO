@@ -9,6 +9,7 @@ LANGUAGES AND TOOLS:
 <br><br>
   <img alt="PYTHON" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="FASTAPI" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img alt="FASTAPI" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg"/>
   <img alt="VUEJS" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
   <img alt="VSCODE" style=" width:50px; height:50px "  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="HTML5" style=" width:50px; height:50px " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
