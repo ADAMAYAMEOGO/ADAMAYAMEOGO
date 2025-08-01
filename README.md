@@ -14,11 +14,13 @@
 - 🧠 Lifelong learner: backend optimization, UX, and DevOps best practices  
 
 ---
+---
 
 ### 🛠️ Languages & Tools
 
 <p align="center">
   <img alt="Python" title="Python" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="Rust" title="Rust" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
   <img alt="FastAPI" title="FastAPI" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg"/>
   <img alt="PostgreSQL" title="PostgreSQL" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img alt="VueJS" title="VueJS" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
@@ -39,35 +41,19 @@
   <img src="https://komarev.com/ghpvc/?username=ADAMAYAMEOGO&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborations-success?style=flat-square&logo=github" alt="Open to collaborations" />
   <img src="https://img.shields.io/badge/Maintainer-Yes-blue?style=flat-square" alt="Maintainer badge" />
-  <a href="https://wa.me/22674799033?text=Hi%20Adama%2C%20I%27d%20like%20to%20discuss%20a%20freelance%20project.">
+  <a href="https://wa.me/22674799033?text=Hi%20Adama%2C%20I'd%20like%20to%20discuss%20a%20freelance%20project.">
     <img src="https://img.shields.io/badge/Freelance-Available-success?style=flat-square&logo=freelancer" alt="Freelance available" />
   </a>
 </p>
 
 <p align="center">
-  <!-- GitHub stats including private repos -->
   <img
     src="https://github-readme-stats-gzoa5qedn-yameogo-adamas-projects.vercel.app/api?username=ADAMAYAMEOGO&count_private=true&show_icons=true&theme=github_dark&hide_border=true"
     alt="GitHub stats"
     width="50%" />
-
   <br />
-
-  <!-- Most used languages including private repos -->
   <img
     src="https://github-readme-stats-gzoa5qedn-yameogo-adamas-projects.vercel.app/api/top-langs/?username=ADAMAYAMEOGO&count_private=true&layout=compact&theme=github_dark&hide_border=true"
     alt="Top languages"
     width="50%" />
 </p>
-
----
-
-### 📫 Get in Touch
-
-- 💬 GitHub: [@ADAMAYAMEOGO](https://github.com/ADAMAYAMEOGO)  
-- 📱 WhatsApp: [Chat with me](https://wa.me/22674799033)  
-- 📍 Location: Ouagadougou, Burkina Faso
-
----
-
-<!-- PROFILE README -->
