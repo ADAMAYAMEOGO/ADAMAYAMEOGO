@@ -1,7 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Adama YAMEOGO</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Adama+YAMEOGO;Self-taught+developer+from+Burkina+Faso;Tech+entrepreneur+%7C+Fintech+builder" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  🌍 Based in Burkina Faso &nbsp;|&nbsp; 🧠 Self-taught Developer &nbsp;|&nbsp; 💡 Tech Entrepreneur
+  🌍 Based in Burkina Faso &nbsp;|&nbsp; 🧠 Passionate about building useful software &nbsp;|&nbsp; 💡 Entrepreneur
 </p>
 
 ---
@@ -9,11 +11,10 @@
 ### 🚀 Projects & Goals
 
 - 🔭 Building **CryptoChange** — a P2P crypto exchange platform  
-- 🌱 Improving my **English** and mastering **System Administration**  
-- 👯 Open to collaborating on **FastAPI**, **Rust backends**, or **Fintech tools**  
-- 🧠 Lifelong learner: backend optimization, UX, and DevOps best practices  
+- 🌱 Improving my **English** and **System Admin** skills  
+- 👯 Open to collaboration on **FastAPI**, **Rust**, and **Fintech tools**  
+- 🧠 Constantly learning: APIs, DevOps, architecture, and performance
 
----
 ---
 
 ### 🛠️ Languages & Tools
@@ -48,8 +49,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-gzoa5qedn-yameogo-adamas-projects.vercel.app/api?username=ADAMAYAMEOGO&count_private=true&show_icons=true&theme=github_dark&hide_border=true"
-    
+    src="https://github-readme-stats-five-self-56.vercel.app/api?username=ADAMAYAMEOGO&count_private=true&show_icons=true&theme=github_dark&hide_border=true"
     alt="GitHub stats"
     width="50%" />
   <br />
@@ -58,3 +58,15 @@
     alt="Top languages"
     width="50%" />
 </p>
+
+---
+
+### 📫 Let’s Connect
+
+- 💬 GitHub : [@ADAMAYAMEOGO](https://github.com/ADAMAYAMEOGO)  
+- 📱 WhatsApp : [Message me](https://wa.me/22674799033)  
+- 📍 Ouagadougou, Burkina Faso
+
+---
+
+<!-- PROFILE README-->
