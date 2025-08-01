@@ -49,11 +49,12 @@
 <p align="center">
   <img
     src="https://github-readme-stats-gzoa5qedn-yameogo-adamas-projects.vercel.app/api?username=ADAMAYAMEOGO&count_private=true&show_icons=true&theme=github_dark&hide_border=true"
+    
     alt="GitHub stats"
     width="50%" />
   <br />
   <img
-    src="https://github-readme-stats-gzoa5qedn-yameogo-adamas-projects.vercel.app/api/top-langs/?username=ADAMAYAMEOGO&count_private=true&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-five-self-56.vercel.app/api/top-langs/?username=ADAMAYAMEOGO&count_private=true&layout=compact&theme=github_dark&hide_border=true"
     alt="Top languages"
     width="50%" />
 </p>
