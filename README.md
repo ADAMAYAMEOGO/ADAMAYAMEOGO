@@ -48,7 +48,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-gzoa5qedn-yameogo-adamas-projects.vercel.app/api?username=ADAMAYAMEOGO&count_private=true&show_icons=true&theme=github_dark&hide_border=true"
+    src="github-readme-stats-gzoa5qedn-yameogo-adamas-projects.vercel.app"
     alt="GitHub stats"
     width="50%" />
   <br />
